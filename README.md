@@ -1,0 +1,1 @@
+# gezinomi_segmentasyon
